@@ -3,7 +3,7 @@ pic: https://github.com/Joodood/Eisenhower-Matrix-Tkinter-Draft/issues/1#issue-7
 
 
 # Eisenhower-Matrix-Tkinter-Draft
-The eisenhower matrix is a way of prioritizing your tasks into four quadrants: Important and urgent, important and not urgent, urgent and not important, and not important and not urgent. I found the idea in Seven Habits of Highly Effective People and thought it was cool but hated having to print and glue these matrix grids onto paper, so made this.
+The eisenhower matrix is a way of prioritizing your tasks into four quadrants: Important and urgent, important and not urgent, urgent and not important, and not important and not urgent. I found the idea in Seven Habits of Highly Effective People and thought it was cool but hated having to print and glue these matrix grids onto paper, so made this. As of 1/18/2021 it is still in the works.
 
 
 
